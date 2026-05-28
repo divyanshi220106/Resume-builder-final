@@ -1,4 +1,4 @@
-<img width="1919" height="911" alt="Screenshot 2026-05-28 122939" src="https://github.com/user-attachments/assets/27db88c2-a248-4187-89a8-189f7e1c8569" />
+
 # Resume Builder Website
 
 Welcome to our Resume Builder Website! Our website allows users to easily create professional and personalized resumes.
