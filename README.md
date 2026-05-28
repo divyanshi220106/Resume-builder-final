@@ -34,11 +34,11 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/divyanshi220106/React-Project.git
+git clone https://github.com/divyanshi220106/Resume-builder-final.git
 ```
 2. Navigate to the project directory
 ```bash
-cd resume-builder
+cd Resume-Builder
 ```
 3. Install dependencies
 ```bash
